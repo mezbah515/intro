@@ -1,0 +1,139 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    /* width: 1080px;
+    height: auto; */
+}
+body{
+    width: 1080px;
+    height: auto;
+    display: inline-block;
+    background: rgba(235, 230, 230, 0.918);
+}
+.heading{
+    text-align: center;
+    color: rgb(196, 196, 60);
+    font-weight: 30px;
+    font-size: 30px;
+    letter-spacing: 20px;
+    text-decoration: underline rgb(152, 170, 50);
+    /* display: inline-block; */
+    padding:15px;
+    
+}
+.namepart{
+    height:auto;
+    width: 650px;
+    display: inline-block;
+    padding: 30px;
+}
+.namepart p{
+    text-align:right;
+    font-size: 20px;
+} 
+.namepart h3 {
+	text-align: right;
+	word-spacing: 7px;
+	letter-spacing: -2px;
+	font-size: 20px;
+	
+}
+
+img{
+    height: 200px;
+    width: 230px;
+    display: inline-block;
+}
+.head {
+	text-align: left;
+	background-color: rgb(156, 146, 146);
+	font-size: 20px;
+	margin-left: 90px;
+	padding-left: 10px;
+    display:block;
+    padding-right: 30px;
+    border-radius: 2px 2px 0px 0px ;
+    margin-right: 840px;
+}
+.education {
+    height: auto;
+	border: 1px solid black;
+	margin-right: 30px;
+    margin-left: 90px;
+    border-radius: 0px 3px 3px 3px;
+    position: relative;
+
+}
+.skills {
+	/* background-color: green; */
+	width: 334px;
+	/* height: auto; */
+	display: inline-block;
+	height: 264px;
+	position: absolute;
+	
+	right: 500px;
+	bottom: 150px;
+}
+.skills ul li {
+	padding: 10px;
+    margin-left: 80px;
+    margin-top: 5px;
+}
+.skills ul li:first-child{
+    text-align: center;
+    text-decoration: underline;
+    font-size: 20px;
+    list-style-type: none;
+    margin-right: 60px;
+}
+.currenteducation h5{
+    display: inline-block;
+    /* padding-right: 150px;  */
+    padding-bottom: 5px;
+}
+.currenteducation{
+    padding: 15px;
+
+}
+.currenteducation p{
+    display:inline-block;
+    margin-left: 168px;
+}
+#alevel p{
+    margin-left: 150px;
+}
+#bg{
+    margin-top: 50px;
+}
+
+.background{
+    height: auto;
+	border: 1px solid black;
+	margin-right: 30px;
+    margin-left: 90px;
+    border-radius: 0px 3px 3px 3px;
+    padding-bottom: 25px;
+}
+.background h2 {
+	/* padding: 22px; */
+    display: inline-block;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+.background p {
+	padding: 5px 50px;
+	display: inline-block;
+	font-size: 18px;
+}
+footer {
+	height: auto;
+	margin-right: 30px;
+	margin-left: 126px;
+	padding-top: 20px;
+	padding-bottom: 30px;
+	font-size: 20px;
+}
+
+
+
